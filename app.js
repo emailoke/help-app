@@ -11,7 +11,6 @@ var catalog = require('./routes/catalog');
 
 var app = express();
 
-
 //Import the mongoose module
 var mongoose = require('mongoose');
 
